@@ -7,7 +7,7 @@ import katransformer
 
 # Load the image
 img = Image.open(urlopen(
-    'https://stock.adobe.com/search?k=zoo+animal'
+    'https://huggingface.co/datasets/huggingface/documentation-images/blob/main/kolors/bunny_source.png'
 ))
 
 # Move model to CUDA
